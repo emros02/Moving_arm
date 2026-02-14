@@ -23,9 +23,14 @@ The manipulator maintains its orientation while the arm is moving.
 The program demonstrates continuous arm movement within the range defined by the previously set parameters.
 --------------------------------------------------------------------------------------------------------------------------------------
 
-Additional Requirements (optional)
-a) Create a GUI to facilitate program usage.
-b) Allow the user to change the length of each segment during program execution, including setting a segment length to 0.
-c) Allow the user to set the rotation speed and angle range for each joint during program execution.
-d) Allow the user to change the position of the first joint during program execution.
-e) Ensure that for no parameter values do the segments and the manipulator overlap.
+Additional Requirements (optional):
+
+1. Create a GUI to facilitate program usage.
+
+2. Allow the user to change the length of each segment during program execution, including setting a segment length to 0.
+
+3. Allow the user to set the rotation speed and angle range for each joint during program execution.
+
+4. Allow the user to change the position of the first joint during program execution.
+
+5. Ensure that for no parameter values do the segments and the manipulator overlap.
